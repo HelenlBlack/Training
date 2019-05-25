@@ -1,0 +1,5 @@
+C:\Users\helen\myApp\obj\x86\Debug\CSTraining.csproj.CoreCompileInputs.cache
+C:\Users\helen\myApp\bin\Debug\ConsoleApplication.exe
+C:\Users\helen\myApp\bin\Debug\ConsoleApplication.pdb
+C:\Users\helen\myApp\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\helen\myApp\obj\x86\Debug\ConsoleApplication.pdb
